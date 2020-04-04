@@ -1,7 +1,7 @@
 {
   "author": "Girma Nigusse <xgirma@gmail.com>",
   "bugs": {
-    "url": "https://github.com/e2e-boilerplate/cypress-typescript-cucumber-chai-assert/issues"
+    "url": "https://github.com/e2e-boilerplate/cypress-typescript-cucumber-chai-expect/issues"
   },
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true
@@ -14,7 +14,7 @@
     "tsify": "4.0.1",
     "typescript": "3.8.3"
   },
-  "description": "Cypress end-to-end test automation boilerplate. Using TypeScript, Cucumber, Chai and Assert.",
+  "description": "Cypress end-to-end test automation boilerplate. Using TypeScript, Cucumber, Chai and Expect.",
   "devDependencies": {
     "@types/chai": "4.2.11",
     "@types/cypress-cucumber-preprocessor": "1.14.1",
@@ -26,14 +26,13 @@
     "tslint-config-prettier": "1.18.0",
     "tslint-plugin-prettier": "2.3.0"
   },
-  "homepage": "https://github.com/e2e-boilerplate/cypress-typescript-cucumber-chai-assert#readme",
+  "homepage": "https://github.com/e2e-boilerplate/cypress-typescript-cucumber-chai-expect#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged --allow-empty"
     }
   },
   "keywords": [
-    "assert",
     "boilerplate",
     "chai",
     "cucumber",
@@ -41,6 +40,7 @@
     "e2e",
     "e2e tests",
     "example",
+    "expect",
     "integration test",
     "typescript"
   ],
@@ -50,10 +50,10 @@
       "prettier --write"
     ]
   },
-  "name": "cypress-typescript-cucumber-chai-assert",
+  "name": "cypress-typescript-cucumber-chai-expect",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplate/cypress-typescript-cucumber-chai-assert.git"
+    "url": "git+https://github.com/e2e-boilerplate/cypress-typescript-cucumber-chai-expect.git"
   },
   "scripts": {
     "clean:screenshots": "npx cypress/screenshots/*",
