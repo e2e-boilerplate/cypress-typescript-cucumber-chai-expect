@@ -9,7 +9,7 @@
   "dependencies": {
     "cucumber": "6.0.5",
     "cypress": "4.4.0",
-    "cypress-cucumber-preprocessor": "2.3.0",
+    "cypress-cucumber-preprocessor": "2.3.1",
     "rimraf": "3.0.2",
     "tsify": "4.0.1",
     "typescript": "3.8.3"
