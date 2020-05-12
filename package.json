@@ -12,7 +12,7 @@
     "cypress-cucumber-preprocessor": "2.3.1",
     "rimraf": "3.0.2",
     "tsify": "4.0.1",
-    "typescript": "3.8.3"
+    "typescript": "3.9.2"
   },
   "description": "Cypress end-to-end test automation boilerplate. Using TypeScript, Cucumber, Chai and Expect.",
   "devDependencies": {
