@@ -8,8 +8,7 @@
       "es2015"
     ],
     "types": [
-      "cypress",
-      "chai"
+      "cypress"
     ],
     "typeRoots": [
       "node_modules/@types"
