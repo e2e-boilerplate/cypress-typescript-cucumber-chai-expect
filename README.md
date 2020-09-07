@@ -2,7 +2,7 @@
     
 # Cypress Boilerplate
     
-Cypress end-to-end test automation boilerplate, Using [TypeScript](https://www.typescriptlang.org), [Cucumber](https://github.com/cucumber/cucumber-js), [Chai](https://www.chaijs.com) and [Commonjs](https://www.chaijs.com/api/bdd/).
+Cypress end-to-end test automation boilerplate, Using [TypeScript](https://www.typescriptlang.org), [Cucumber](https://github.com/cucumber/cucumber-js), [Chai](https://www.chaijs.com) and [Commonjs](https://www.chaijs.com/api/bdd/).. Clone or fork this repository.
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/cypress-typescript-cucumber-chai-expect.git
